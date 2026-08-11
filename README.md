@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es: Florencia
-- Vivo en Hurlingham
+- Mi nombre es: 
+- Vivo en 
 
 
 ### Otra Información
