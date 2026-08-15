@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es: 
-- Vivo en 
+- Mi nombre es: Florencia Retamozo
+- Vivo en Hurlingham
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Michi
+- Tengo un gato que se llama Luna de Totoro
